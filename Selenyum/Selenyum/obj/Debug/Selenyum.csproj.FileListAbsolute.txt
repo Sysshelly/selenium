@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Selenyum\Selenyum\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\user\Desktop\Selenyum\Selenyum\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\user\Desktop\Selenyum\Selenyum\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\user\Desktop\Selenyum\Selenyum\bin\Debug\Selenyum.exe.config
+C:\Users\user\Desktop\Selenyum\Selenyum\bin\Debug\Selenyum.exe
+C:\Users\user\Desktop\Selenyum\Selenyum\bin\Debug\Selenyum.pdb
+C:\Users\user\Desktop\Selenyum\Selenyum\bin\Debug\WebDriver.dll
+C:\Users\user\Desktop\Selenyum\Selenyum\obj\Debug\Selenyum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Selenyum\Selenyum\obj\Debug\Selenyum.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Selenyum\Selenyum\obj\Debug\Selenyum.Form1.resources
+C:\Users\user\Desktop\Selenyum\Selenyum\obj\Debug\Selenyum.Properties.Resources.resources
+C:\Users\user\Desktop\Selenyum\Selenyum\obj\Debug\Selenyum.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Selenyum\Selenyum\obj\Debug\Selenyum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Selenyum\Selenyum\obj\Debug\Selenyum.csproj.CopyComplete
+C:\Users\user\Desktop\Selenyum\Selenyum\obj\Debug\Selenyum.exe
+C:\Users\user\Desktop\Selenyum\Selenyum\obj\Debug\Selenyum.pdb
